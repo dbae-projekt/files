@@ -3,8 +3,8 @@ Check-Liste welche Punkte komplett fertig sind.
 
 MUSS-Anforderungen:
 
-2.1 Benutzeranmeldung und Registrierung: Fast Fertig (fester Account für den Praktikumsbeauftragter fehlt noch)(FERTIG) </br>
-2.2 Verschiedene Nutzerrollen: Student-Bereich fehlt noch.(FERTIG nur css fehlt) </br>
+2.1 Benutzeranmeldung und Registrierung: Fast Fertig (FERTIG) </br>
+2.2 Verschiedene Nutzerrollen: (FERTIG) </br>
 2.3 Eingabe und Anpassung des Praktikums: Steht soweit  </br>
 (Eingaben müssen noch in Session gespeichert bzw. dynamisch in Datenbank geschrieben werden) </br>
 2.4 Abruf von Unternehmensinformationen: Muss noch in Datenbank geschrieben werden #Aufwand </br>
