@@ -7,7 +7,7 @@ MUSS-Anforderungen:
 2.2 Verschiedene Nutzerrollen: (FERTIG) </br>
 2.3 Eingabe und Anpassung des Praktikums: (FERTIG?)</br>
 2.4 Abruf von Unternehmensinformationen: Muss noch in Datenbank geschrieben werden #Aufwand, Ausgabe der vorhandenen Daten erfolgreich </br>
-<button>>/button>
+<button>Moin</button>
 2.6.1 Eingabe von Unternehmensproﬁlen: (FERTIG) </br>
 2.6.2 Ubersicht der Praktika: Ausgabe der Daten in Praktika vorhanden, noch nicht von Prak-Beauftragtem bearbeitbar </br>
 
