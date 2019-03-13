@@ -10,7 +10,7 @@ MUSS-Anforderungen:
 2.6.1 Eingabe von Unternehmensproﬁlen: (FERTIG) </br>
 2.6.2 Ubersicht der Praktika: Ausgabe der Daten in Praktika vorhanden, noch nicht von Prak-Beauftragtem bearbeitbar </br>
 
-Exception-Handling bei Registration und Login, wenn keine Daten eingegeben werden: (Fehlt)
+WICHTIG: Exception-Handling bei Registration und Login, wenn keine Daten eingegeben werden: (Fehlt)
 
 KANN-Anforderungen:  </br>
 
