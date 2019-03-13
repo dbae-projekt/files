@@ -20,5 +20,5 @@ Bisher noch nicht angefangen. </br>
 
 1. Woche: Grobe Funktionalitäten der MUSS-Anforderungen sollten soweit stehen, dass man die Seiten wenigstens benutzen kann. </br>
 2. Woche: Ballern </br>
-3. Woche: To be continued.. und css </br>
-4. Woche: Verfeinerungen </br>
+3. Woche: YOU SHALL NOT PASS! </br>
+4. Woche: Css und Programm fertigstellen </br>
