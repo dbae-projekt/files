@@ -10,7 +10,7 @@ MUSS-Anforderungen:
 2.6.1 Eingabe von Unternehmensproﬁlen: (FERTIG) </br>
 2.6.2 Ubersicht der Praktika: Ausgabe der Daten in Praktika vorhanden, noch nicht von Prak-Beauftragtem bearbeitbar </br>
 
-WICHTIG: keine leeren Unternehmen ermöglichen! Ist nicht mehr möglich :)
+WICHTIG: Passwort-Hashing, KO-Kriterien(geht auch nächste Woche), Aufrufen eines Profils durch den Prak-Beauftragten
 
 KANN-Anforderungen:  </br>
 
