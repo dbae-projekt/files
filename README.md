@@ -1,4 +1,7 @@
 # files
+
+WENN MAN AUF EIN PROFIL IN PRAKTIKA KLICKT KRIEGT MAN NE NUMBERFORMAT EXCEPTION!!! We need to fix that somehow
+
 Check-Liste welche Punkte komplett fertig sind.
 
 MUSS-Anforderungen:
