@@ -1,6 +1,7 @@
 # files
 
-WENN MAN AUF EIN PROFIL IN PRAKTIKA KLICKT KRIEGT MAN NE NUMBERFORMAT EXCEPTION!!! We need to fix that somehow
+WENN MAN AUF EIN PROFIL IN PRAKTIKA KLICKT KRIEGT MAN NE NUMBERFORMAT EXCEPTION!!! We need to fix that somehow <br>
+DONE
 
 Check-Liste welche Punkte komplett fertig sind.
 
