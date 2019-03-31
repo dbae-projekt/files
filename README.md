@@ -18,7 +18,7 @@ WICHTIG: Passwort-Hashing, XSS
 
 KANN-Anforderungen:  </br>
 
-Bisher noch nicht angefangen. </br>
+Ham wa so nebenbei gemacht:D </br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,4 +27,5 @@ Bisher noch nicht angefangen. </br>
 1. Woche: Grobe Funktionalitäten der MUSS-Anforderungen sollten soweit stehen, dass man die Seiten wenigstens benutzen kann. </br>
 2. Woche: Ballern </br>
 3. Woche: YOU SHALL NOT PASS! </br>
-4. Woche: Css und Programm fertigstellen </br>
+4. Woche: Css und Programm fertigstellen
+AHHHHH Panik</br>
