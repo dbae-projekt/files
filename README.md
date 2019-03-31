@@ -12,7 +12,7 @@ MUSS-Anforderungen:
 2.3 Eingabe und Anpassung des Praktikums: (FERTIG?)</br>
 2.4 Abruf von Unternehmensinformationen: Muss noch in Datenbank geschrieben werden #Aufwand, Ausgabe der vorhandenen Daten erfolgreich </br>
 2.6.1 Eingabe von Unternehmensproﬁlen: (FERTIG) </br>
-2.6.2 Ubersicht der Praktika: Ausgabe der Daten in Praktika vorhanden, noch nicht von Prak-Beauftragtem bearbeitbar </br>
+2.6.2 Ubersicht der Praktika: Ausgabe der Daten in Praktika vorhanden, noch nicht von Prak-Beauftragtem bearbeitbar(FERTIG) </br>
 
 WICHTIG: Passwort-Hashing, XSS  
 
