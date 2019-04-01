@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+.header {
+	
+	padding-bottom: 20px;
+	text-decoration: underline;
+}
+
+.footer {
+	
+	padding: 10px 0px 0px 10px;
+	border-top: 1px solid black;
+}
+
+html, body {
+	
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.row {
+	
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+}
+
+.bemerkung {
+	
+	float: right;
+	width: 50%;
+	text-align: center;
+}
+
+.header1 {
+	
+	margin: 20px;
+}
+
+
+
+
