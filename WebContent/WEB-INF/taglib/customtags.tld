@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<taglib>
+	<!-- Initialisierung / Definitionen -->
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	
+	<tag>
+		<name>tab_admin</name>
+		<tag-class>tags.Tab_Admin</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
+	<tag>
+		<name>icon</name>
+		<tag-class>tags.Icon</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
+	<tag>
+		<name>table_praktika</name>
+		<tag-class>tags.Table_Praktika</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
+	<tag>
+		<name>table_unternehmen</name>
+		<tag-class>tags.Table_Unternehmen</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+
+    <tag>
+		<name>table_tutoren</name>
+		<tag-class>tags.Table_Tutoren</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+
+	<tag>
+		<name>footer_tag</name>
+		<tag-class>tags.FooterTag</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
+	<tag>
+		<name>header_tag</name>
+		<tag-class>tags.HeaderTag</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>tab_student</name>
+		<tag-class>tags.Tab_Student</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
+	<tag>
+		<name>excel_export_tag</name>
+		<tag-class>tags.ExcelExportTag</tag-class>
+		<body-content>scriptless</body-content>
+	</tag>
+	
+	<tag>
+		<name>dropdown</name>
+		<tag-class>tags.DropdownTag</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>auswahl</name>
+			<required>true</required>
+			<type>String</type>
+		</attribute>
+	</tag>
+</taglib>
+
+
+
+
+
+
+
+
+
